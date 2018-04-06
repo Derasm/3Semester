@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DesktopSolution"
+    "\\DesktopSolution",
+    "\\DesktopSolution\\RPGServer\\Model"
   ],
   "SelectedNode": "\\DesktopSolution\\RPGDal",
   "PreviewInSolutionExplorer": false
