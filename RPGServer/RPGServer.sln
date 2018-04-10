@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGServer", "RPGServer\RPGServer.csproj", "{7CDF1E30-3E6E-41BF-9BC9-10C9AAC1F039}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGDAL", "RPGDAL\RPGDAL.csproj", "{8FB7BD35-6967-4CBF-8F28-92AA62273688}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7CDF1E30-3E6E-41BF-9BC9-10C9AAC1F039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CDF1E30-3E6E-41BF-9BC9-10C9AAC1F039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CDF1E30-3E6E-41BF-9BC9-10C9AAC1F039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB7BD35-6967-4CBF-8F28-92AA62273688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB7BD35-6967-4CBF-8F28-92AA62273688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB7BD35-6967-4CBF-8F28-92AA62273688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB7BD35-6967-4CBF-8F28-92AA62273688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
